@@ -2,6 +2,9 @@
 This repository contains the python scripts developed as a part of the work presented in the paper "EEG-based Auditory Attention Detection via Frequency and Channel Neural Attention"
 
 ## Getting Started
+These files are extracted from the project stream, which contain the complete model and some training parameters. In order to run the project, users need to write training and testing code, and use private or public datasets.
+
+The public [KUL dataset](https://zenodo.org/record/3997352#.X_K7HmQzZ6J) is used in the paper. The dataset itself comes with matlab processing program, please adjust it according to your own needs.
 
 ## Model
 ![image](https://github.com/Enze-github/SCUT_-CNN-FC/blob/main/CNN-FC.png)

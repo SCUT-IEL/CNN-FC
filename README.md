@@ -14,7 +14,7 @@ A schematic diagram of the proposed CNN classifier of five components with frequ
 This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Contact
-Siqi Cai, Enze Su, Peiwen Li
+Siqi Cai, Enze Su
 
 Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, Guangzhou, Guangdong Province, China.
 

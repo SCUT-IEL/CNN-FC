@@ -170,7 +170,7 @@ class CNN(nn.Module):
         wav_a = x[:, :, 0:wav_band, :]
         wav_b = x[:, :, -wav_band:, :]
 
-        # band attention
+        # frequency attention
         if is_se_band:
             eeg = eeg.view(eeg_band, eeg_channel_new, window_length)
             eeg = self.se_band(eeg, se_band_type)
